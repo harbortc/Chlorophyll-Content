@@ -1,3 +1,8 @@
+#Chlorophyll Content Plots with Stats
+  #Master template script for GitHub
+# 14.12.2017
+# CJ Harbort
+
 #Set the working directory 
 
 # Used internet example for stats on my data without understanding it

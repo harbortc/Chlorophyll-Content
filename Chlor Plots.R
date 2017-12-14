@@ -1,4 +1,3 @@
-#Here comes code!
 #Chlorophyll content plots master version
 # 14.12.17
 # CJ Harbort

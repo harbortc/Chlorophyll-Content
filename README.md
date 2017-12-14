@@ -7,3 +7,8 @@ No dashes allowed in Genotype, though line included to change Col-0 to Col0 in c
 
 Makes plots of input FW (used for chlorophyll extraction), Total, A, B, and ratio A/B with stats.
 FW is not Shoot Fresh Weight as growth measurement (Different script)
+Performs anova and labels groups based on 95% confidence, then saves plots in the working directory
+
+Doesn't yet take different media types to make a grouped boxplot
+
+If extraction was done in a volume of DMSO besides 1ml, can adjust by defining volume in the functions, if left blank default it 1ml

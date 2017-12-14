@@ -1,10 +1,3 @@
-#Here comes code!
-#Chlorophyll content plots master version
-# 14.12.17
-# CJ Harbort
-
-
-
 #Set the working directory 
 
 # Used internet example for stats on my data without understanding it

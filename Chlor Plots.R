@@ -1,19 +1,9 @@
 #Chlorophyll Content Plots with Stats
   #Master template script for GitHub
+
 # 14.12.2017
 # CJ Harbort
 
-#Test is this in git and on my work computer now?
-
-x <- "Hello you smart sexy thang!"
-x
-
-did_work <- "Yes"
-
-did_work
-
-### I want to keep changing this branch and commit it back to Github, without changing the master.
-# Let's look at this as a master template put on hold while I work on a version changing stuff
 
 
 #Set the working directory 

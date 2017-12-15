@@ -3,15 +3,6 @@
 # 14.12.2017
 # CJ Harbort
 
-#Test is this in git and on my work computer now?
-
-x <- "Hello you smart sexy thang!"
-x
-
-did_work <- "Yes"
-
-did_work
-
 #Set the working directory 
 
 # Used internet example for stats on my data without understanding it

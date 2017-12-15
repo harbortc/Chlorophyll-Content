@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-#Chlorophyll content plots master version
-# 14.12.17
-=======
 #Chlorophyll Content Plots with Stats
   #Master template script for GitHub
 # 14.12.2017
->>>>>>> 12f5d8e8ca247b624458376808b539476fae390c
+
 # CJ Harbort
 
 #Set the working directory 
